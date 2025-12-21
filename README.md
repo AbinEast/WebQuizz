@@ -29,6 +29,8 @@ WebQuizz-main/
 │   └── script.js     # Main application logic
 └── README.md         # This documentation
 ```
+## Web Preview
+https://abineast.github.io/WebQuizz/
 
 ## Screenshots
 
